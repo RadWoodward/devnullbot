@@ -1,0 +1,14 @@
+{
+  "name": "cheesebot",
+  "version": "0.0.1",
+  "description": "CheeseBot is a bot that does stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev_null__",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
